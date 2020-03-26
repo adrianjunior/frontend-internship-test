@@ -24,3 +24,5 @@ You can check the rules [here](https://www.figma.com/file/f7mAdy2IS1vaoOx3gaFCfq
 ## About the submition
 
 After you finish the test, you can send a email to **rafael@qwkin.io** with the your repository link on github. A feedback with the good points and improvement points about your code will be provided for you after some analysis.
+
+Good luck!
