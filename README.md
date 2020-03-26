@@ -9,8 +9,6 @@ The next step is described below in a little development test to analyze your de
 
 Create a simple flutter mobile application with the specifications [on this figma link](https://www.figma.com/file/f7mAdy2IS1vaoOx3gaFCfq/Internship-Test?node-id=0%3A1). This application *must* have:
 
-![Register screen](./images/register.png) ![Details screen](./images/details.png) ![List screen](./images/list.png)
-
 1. Screen with a list of users
 2. A register user screen
 3. A user details screen
